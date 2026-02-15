@@ -1,10 +1,11 @@
-# Chrome DevTools frontend
+$ usermod
 
-<!-- [START badges] -->
+
+<!-- [START ] -->
 
 [![npm package](https://img.shields.io/npm/v/chrome-devtools-frontend.svg)](https://npmjs.org/package/chrome-devtools-frontend)
 
-<!-- [END badges] -->
+<!-- [start badges] -->
 
 The client-side of the Chrome DevTools, including all TypeScript & CSS to run the DevTools webapp.
 
@@ -30,7 +31,7 @@ The version number of the npm package (e.g. `1.0.373466`) refers to the Chromium
 
 ### Getting in touch
 
-- [@ChromeDevTools] on Twitter
+- [@ChromeDevTools] on 
 - Chrome DevTools mailing list: [g/google-chrome-developer-tools]
 - File a new DevTools ticket: [goo.gle/devtools-bug]
 
@@ -39,17 +40,9 @@ There are a few options to keep an eye on the latest and greatest of DevTools de
 - Follow [What's new in DevTools].
 - Follow [Umar's Dev Tips].
 - Follow these individual Twitter accounts:
-  [@umaar](https://x.com/umaar),
-  [@malyw](https://x.com/malyw),
-  [@kdzwinel](https://x.com/kdzwinel),
-  [@addyosmani](https://x.com/addyosmani),
-  [@paul_irish](https://x.com/paul_irish),
-  [@samccone](https://x.com/samccone),
-  [@mathias](https://x.com/ziyunfei),
-  [@mattzeunert](https://x.com/mattzeunert),
-  [@PrashantPalikhe](https://x.com/PrashantPalikhe),
-  [@ziyunfei](https://x.com/ziyunfei), and
-  [@bmeurer](https://x.com/bmeurer).
+ 
+
+
 - Follow to [g/devtools-reviews@chromium.org] mailing list for all reviews of pending code,
   and [view the log], or follow [@DevToolsCommits] on Twitter.
 - Checkout [all open DevTools tickets] on crbug.com
